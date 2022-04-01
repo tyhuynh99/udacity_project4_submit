@@ -1,0 +1,2 @@
+- This alert fired because the percentage CPU is greater than 3%.
+- Action: Excute the runbook that scale up the vmss
